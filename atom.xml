@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Endorphin</title>
+  
+  <subtitle>杂食区</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-06-18T09:56:21.116Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>CaptainW</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一次博客</title>
+    <link href="http://example.com/2022/06/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/2022/06/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8D%9A%E5%AE%A2/</id>
+    <published>2022-06-18T09:55:10.000Z</published>
+    <updated>2022-06-18T09:56:21.116Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;参考资料&lt;a href=&quot;https://www.jianshu.com/p/3a05351a37dc&quot;&gt;Hexo的Next主题详细配置 - 简书 (jianshu.com)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pagetags</title>
+    <link href="http://example.com/2022/06/17/pagetags/"/>
+    <id>http://example.com/2022/06/17/pagetags/</id>
+    <published>2022-06-17T10:05:54.000Z</published>
+    <updated>2022-06-17T10:05:54.510Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/06/17/hello-world/"/>
+    <id>http://example.com/2022/06/17/hello-world/</id>
+    <published>2022-06-17T10:00:24.125Z</published>
+    <updated>2022-06-17T10:00:24.125Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
