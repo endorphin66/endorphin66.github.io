@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-18T09:56:21.116Z</updated>
+  <updated>2022-06-21T04:39:37.714Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PDF在线工具网站整理</title>
+    <link href="http://example.com/2022/06/21/PDF%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7%E7%BD%91%E7%AB%99%E6%95%B4%E7%90%86/"/>
+    <id>http://example.com/2022/06/21/PDF%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7%E7%BD%91%E7%AB%99%E6%95%B4%E7%90%86/</id>
+    <published>2022-06-21T04:31:39.000Z</published>
+    <updated>2022-06-21T04:39:37.714Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;今天下载电子版机械原理的时候遇到了加密pdf文件，遂一时兴起，去网上查了一下解密工具，找到了一些网站合集，（转载自&lt;a href=&quot;https://zhuanlan.zhihu.com/p/384622187&quot;&gt;最全面的免费PDF在线工具网站整理 - 知乎 (zhihu.com)&lt;/a&gt;侵删）。还了解到一款叫做&lt;strong&gt;Pwdremover&lt;/strong&gt;的软件，不过既然已经有在线网站了，那就以后有机会再试试Pwdremover。&lt;/p&gt;
+&lt;p&gt;以下为转载：&lt;/p&gt;
+&lt;h2 id=&quot;一、iLovePDF&quot;&gt;&lt;a href=&quot;#一、iLovePDF&quot; class=&quot;headerlink&quot; title=&quot;一、iLovePDF&quot;&gt;&lt;/a&gt;一、iLovePDF&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ilovepdf.com/zh-cn&quot;&gt;https://www.ilovepdf.com/zh-cn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;描述：完全免费、易于使用、丰富的PDF处理工具，包括：合并、拆分、压缩、转换、旋转和解锁PDF文件，以及给PDF文件添加水印的工具等。仅需几秒钟即可完成。&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="工具" scheme="http://example.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="工具 学习" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7-%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>我的第一次博客</title>
